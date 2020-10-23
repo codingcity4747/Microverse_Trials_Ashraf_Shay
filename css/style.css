@@ -1,0 +1,14 @@
+#welcome-section{
+  background-color: red;
+  height: 100vh;
+}
+#projects{
+  background-color: blue;
+  padding-top: 500px;
+}
+#navbar{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
